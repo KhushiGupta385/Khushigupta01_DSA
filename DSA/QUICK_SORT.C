@@ -31,6 +31,7 @@ void quick_sort(int list[], int first, int last)
        quick_sort(list,low,last);
 }
 
+
 /*Output function for process*/
 /*void display(int list[],int low,int upper,int pivot)
 {
